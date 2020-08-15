@@ -1,2 +1,4 @@
-# calculator
-React
+# Calculator
+
+Playing around with
+* React:
